@@ -2,6 +2,11 @@
 
 A decentralized API key management system built on Solana. This project demonstrates how traditional backend patterns can be reimagined using blockchain architecture.
 
+[![Demo Video](https://img.shields.io/badge/Demo-asciinema-brightgreen)](https://asciinema.org/a/XCpE6zYJZyOmGbdP)
+[![Tests](https://img.shields.io/badge/Tests-15%20passing-brightgreen)]()
+
+**Demo Video:** [Watch the test suite in action](https://asciinema.org/a/XCpE6zYJZyOmGbdP)
+
 ## Overview
 
 API key management is a fundamental backend pattern used by virtually every SaaS product. This project rebuilds that core logic as a Solana program, showcasing how Web2 patterns can be transformed into Web3 primitives.
